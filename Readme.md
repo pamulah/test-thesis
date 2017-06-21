@@ -5,3 +5,5 @@
 ### This is a level 3 heading
 
 and so on ...
+
+'''This is a code segment in the markdown'''
