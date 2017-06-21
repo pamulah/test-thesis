@@ -9,3 +9,5 @@ and so on ...
 '''This is a code segment in the markdown'''
 
 > This is a quoted passage.
+
+This is a link to [EPCC](http://www.epcc.ed.ac.uk)
