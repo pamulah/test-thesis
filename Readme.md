@@ -7,3 +7,5 @@
 and so on ...
 
 '''This is a code segment in the markdown'''
+
+> This is a quoted passage.
